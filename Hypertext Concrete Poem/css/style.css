@@ -1,0 +1,18 @@
+body{
+    font-family: Georgia, serif;
+}
+
+h1{
+    font-size: 20px;
+}
+  
+  .centered-wrapper{
+    width:800px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+  }
+
+  .title a{
+    position: absolute;
+  }
